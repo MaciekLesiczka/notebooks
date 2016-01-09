@@ -1,0 +1,186 @@
+Country,CountryId,Fatals,Code
+Afghanistan,/wiki/Afghanistan,19.8,AFG
+Albania,/wiki/Albania,12.8,ALB
+Angola,/wiki/Angola,23.1,AGO
+Argentina,/wiki/Argentina,12.4,ARG
+Armenia,/wiki/Armenia,18.1,ARM
+Australia,/wiki/Australia,5.6,AUS
+Austria,/wiki/Austria,5.3,AUT
+Azerbaijan,/wiki/Azerbaijan,13.1,AZE
+Bahamas,/wiki/The_Bahamas,13.7,BHS
+Bahrain,/wiki/Bahrain,10.5,BHR
+Bangladesh,/wiki/Bangladesh,11.6,BGD
+Barbados,/wiki/Barbados,7.3,BRB
+Belarus,/wiki/Belarus,10,BLR
+Belgium,/wiki/Belgium,7.2,BEL
+Belize,/wiki/Belize,16.4,BLZ
+Benin,/wiki/Benin,23.9,BEN
+Bhutan,/wiki/Bhutan,13.2,BTN
+Bolivia,/wiki/Bolivia,19.2,BOL
+Bosnia and Herzegovina,/wiki/Bosnia_and_Herzegovina,14.2,BIH
+Botswana,/wiki/Botswana,20.8,BWA
+Brazil,/wiki/Brazil,22.5,BRA
+Brunei Darussalam,/wiki/Brunei,6.8,BRN
+Bulgaria,/wiki/Bulgaria,10.4,BGR
+Burkina Faso,/wiki/Burkina_Faso,27.7,BFA
+Burundi,/wiki/Burundi,21.3,BDI
+Cambodia,/wiki/Cambodia,17.6,KHM
+Cameroon,/wiki/Cameroon,20.1,CMR
+Canada,/wiki/Canada,6,CAN
+Cape Verde,/wiki/Cape_Verde,22.4,
+Central African Republic,/wiki/Central_African_Republic,14.6,CAF
+Chad,/wiki/Chad,29.7,TCD
+Chile,/wiki/Chile,11.5,CHL
+China,/wiki/China,20.5,CHN
+Colombia,/wiki/Colombia,16.4,COL
+Comoros,/wiki/Comoros,21.8,COM
+Republic of the Congo,/wiki/Republic_of_the_Congo,17.1,COG
+Cook Islands,/wiki/Cook_Islands,9.9,COK
+Costa Rica,/wiki/Costa_Rica,12.7,CRI
+Ivory Coast,/wiki/Ivory_Coast,20.9,CIV
+Croatia,/wiki/Croatia,7.9,HRV
+Cuba,/wiki/Cuba,7.8,CUB
+Cyprus,/wiki/Cyprus,7.6,CYP
+Czech Republic,/wiki/Czech_Republic,7.1,CZE
+North Korea,/wiki/North_Korea,10.7,PRK
+Democratic Republic of the Congo,/wiki/Democratic_Republic_of_the_Congo,20.9,COD
+Denmark,/wiki/Denmark,3.0,DNK
+Dominica,/wiki/Dominica,11.8,DMA
+Dominican Republic,/wiki/Dominican_Republic,41.7,DOM
+Ecuador,/wiki/Ecuador,27.0,ECU
+Egypt,/wiki/Egypt,13.2,EGY
+El Salvador,/wiki/El_Salvador,21.9,SLV
+Eritrea,/wiki/Eritrea,48.4,ERI
+Equatorial Guinea,/wiki/Equatorial_Guinea,11.4,GNQ
+Estonia,/wiki/Estonia,6.5,EST
+Ethiopia,/wiki/Ethiopia,17.6,ETH
+Fiji,/wiki/Fiji,6.3,FJI
+Finland,/wiki/Finland,4.7,FIN
+France,/wiki/France,4.9,FRA
+Gabon,/wiki/Gabon,22.5,GAB
+The Gambia,/wiki/The_Gambia,18.8,GMB
+Georgia,/wiki/Georgia_(country),15.7,GEO
+Germany,/wiki/Germany,4.3,DEU
+Ghana,/wiki/Ghana,22.2,GHA
+Greece,/wiki/Greece,9.1,GRC
+Guatemala,/wiki/Guatemala,6.7,GTM
+Guinea,/wiki/Guinea,19.6,GIN
+Guinea-Bissau,/wiki/Guinea-Bissau,31.2,GNB
+Guyana,/wiki/Guyana,27.8,GUY
+Honduras,/wiki/Honduras,18.8,HND
+Hungary,/wiki/Hungary,7.7,HUN
+Iceland,/wiki/Iceland,3.8,ISL
+India,/wiki/India,19.5,IND
+Indonesia,/wiki/Indonesia,17.7,IDN
+Iran,/wiki/Iran,24.1,IRN
+Iraq,/wiki/Iraq,31.5,IRQ
+Ireland,/wiki/Republic_of_Ireland,4.2,IRL
+Israel,/wiki/Israel,3.3,ISR
+Italy,/wiki/Italy,6.2,ITA
+Jamaica,/wiki/Jamaica,11.4,JAM
+Japan,/wiki/Japan,4.8,JPN
+Jordan,/wiki/Jordan,22.9,JOR
+Kazakhstan,/wiki/Kazakhstan,21.9,KAZ
+Kenya,/wiki/Kenya,20.9,KEN
+Kiribati,/wiki/Kiribati,6.0,KIR
+Kuwait,/wiki/Kuwait,16.5,KWT
+Kyrgyzstan,/wiki/Kyrgyzstan,19.2,KGZ
+Laos,/wiki/Laos,20.4,LAO
+Latvia,/wiki/Latvia,10.8,LVA
+Lebanon,/wiki/Lebanon,22.3,LBN
+Lesotho,/wiki/Lesotho,28.4,LSO
+Liberia,/wiki/Liberia,19.0,LBR
+Libya,/wiki/Libya,40.5,LBY
+Lithuania,/wiki/Lithuania,11.2,LTU
+Luxembourg,/wiki/Luxembourg,6.5,LUX
+Macedonia,/wiki/Republic_of_Macedonia,7.9,MKD
+Madagascar,/wiki/Madagascar,18.4,MDG
+Malawi,/wiki/Malawi,19.5,MWI
+Malaysia,/wiki/Malaysia,24.8,MYS
+Maldives,/wiki/Maldives,1.9,MDV
+Mali,/wiki/Mali,23.1,MLI
+Malta,/wiki/Malta,3.8,MLT
+Marshall Islands,/wiki/Marshall_Islands,7.4,MHL
+Mauritania,/wiki/Mauritania,28.0,MRT
+Mauritius,/wiki/Mauritius,12.2,MUS
+Mexico,/wiki/Mexico,14.7,MEX
+Federated States of Micronesia,/wiki/Federated_States_of_Micronesia,1.8,FSM
+Mongolia,/wiki/Mongolia,17.8,MNG
+Montenegro,/wiki/Montenegro,11.8,MNE
+Morocco,/wiki/Morocco,18.0,MAR
+Mozambique,/wiki/Mozambique,18.5,MOZ
+Myanmar,/wiki/Myanmar,15.0,MMR
+Namibia,/wiki/Namibia,25.0,NAM
+Nauru,/wiki/Nauru,9.9,NRU
+Nepal,/wiki/Nepal,16.0,NPL
+Netherlands,/wiki/Netherlands,3.9,NLD
+New Zealand,/wiki/New_Zealand,7.4,NZL
+Nicaragua,/wiki/Nicaragua,18.8,NIC
+Niger,/wiki/Niger,23.7,NER
+Nigeria,/wiki/Nigeria,33.7,NGA
+Norway,/wiki/Norway,2.9,NOR
+Oman,/wiki/Oman,30.4,OMN
+Pakistan,/wiki/Pakistan,17.4,PAK
+Palau,/wiki/Palau,14.7,PLW
+Palestinian territories,/wiki/Palestinian_National_Authority,3.2,PSE
+Panama,/wiki/Panama,14.1,PAN
+Papua New Guinea,/wiki/Papua_New_Guinea,13.0,PNG
+Paraguay,/wiki/Paraguay,21.4,PRY
+Peru,/wiki/Peru,15.9,PER
+Philippines,/wiki/Philippines,9.1,PHL
+Poland,/wiki/Poland,10.9,POL
+Portugal,/wiki/Portugal,9.7,PRT
+Puerto Rico,/wiki/Puerto_Rico,12.8,PRI
+Qatar,/wiki/Qatar,14.0,QAT
+Republic of Moldova,/wiki/Moldova,13.9,MDA
+Romania,/wiki/Romania,11.1,ROU
+Russia,/wiki/Russia,18.6,RUS
+Rwanda,/wiki/Rwanda,19.9,RWA
+Saint Lucia,/wiki/Saint_Lucia,14.9,LCA
+Saint Vincent and the Grenadines,/wiki/Saint_Vincent_and_the_Grenadines,4.6,VCT
+Samoa,/wiki/Samoa,16.4,WSM
+San Marino,/wiki/San_Marino,0,SMR
+So Tom and Prncipe,/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe,20.6,STP
+Saudi Arabia,/wiki/Saudi_Arabia,24.8,SAU
+Senegal,/wiki/Senegal,19.5,SEN
+Serbia,/wiki/Serbia,9.5,SRB
+Seychelles,/wiki/Seychelles,15.0,SYC
+Sierra Leone,/wiki/Sierra_Leone,22.6,SLE
+Singapore,/wiki/Singapore,5.1,SGP
+Slovakia,/wiki/Slovakia,9.4,SVK
+Slovenia,/wiki/Slovenia,6.6,SVN
+Solomon Islands,/wiki/Solomon_Islands,14.7,SLB
+South Africa,/wiki/South_Africa,31.9,ZAF
+South Korea,/wiki/South_Korea,10.6,KOR
+Spain,/wiki/Spain,3.6,ESP
+Sri Lanka,/wiki/Sri_Lanka,13.7,LKA
+Sudan,/wiki/Sudan,25.1,SDN
+Suriname,/wiki/Suriname,19.6,SUR
+Swaziland,/wiki/Swaziland,23.4,SWZ
+Sweden,/wiki/Sweden,3,SWE
+Switzerland,/wiki/Switzerland,3.4,CHE
+Syrian Arab Republic,/wiki/Syria,22.9,SYR
+Tajikistan,/wiki/Tajikistan,18.1,TJK
+Thailand,/wiki/Thailand,38.1,THA
+Timor-Leste,/wiki/East_Timor,19.5,TLS
+Togo,/wiki/Togo,17.2,TGO
+Tonga,/wiki/Tonga,5.8,TON
+Trinidad and Tobago,/wiki/Trinidad_and_Tobago,16.7,TTO
+Tunisia,/wiki/Tunisia,18.8,TUN
+Turkey,/wiki/Turkey,9.6,TUR
+Turkmenistan,/wiki/Turkmenistan,18.6,TKM
+Tuvalu,/wiki/Tuvalu,9.6,TUV
+Uganda,/wiki/Uganda,28.9,UGA
+Ukraine,/wiki/Ukraine,13.5,UKR
+United Arab Emirates,/wiki/United_Arab_Emirates,12.7,ARE
+United Kingdom,/wiki/United_Kingdom,3.5,GBR
+Tanzania,/wiki/Tanzania,22.7,TZA
+United States,/wiki/United_States,11.6,USA
+Uruguay,/wiki/Uruguay,21.5,URY
+Uzbekistan,/wiki/Uzbekistan,11.3,UZB
+Vanuatu,/wiki/Vanuatu,16.3,VUT
+Venezuela,/wiki/Venezuela,37.2,VEN
+Vietnam,/wiki/Vietnam,24.7,VNM
+Yemen,/wiki/Yemen,23.7,YEM
+Zambia,/wiki/Zambia,23.8,ZMB
+Zimbabwe,/wiki/Zimbabwe,14.6,ZWE
